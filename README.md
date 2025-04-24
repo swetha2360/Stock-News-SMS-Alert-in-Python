@@ -23,9 +23,3 @@ Ideal for getting a quick market pulse straight to your phone.
 
 ---
 
-## Setup & Usage
-
-1. **Clone** the repo  
-   ```bash
-   git clone https://github.com/<your‑username>/stock‑news‑sms.git
-   cd stock‑news‑sms
